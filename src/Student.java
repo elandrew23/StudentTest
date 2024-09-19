@@ -10,6 +10,21 @@
 public class Student {
     private String name;
     private int sid;
+    private int age;
+    
+    /**
+     * @return the age
+     */
+    public int getAge() {
+        return age;
+    }
+
+    /**
+     * @param age the age to set
+     */
+    public void setAge(int age) {
+        this.age = age;
+    }
     
     /**
      * @return the name
