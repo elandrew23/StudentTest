@@ -4,7 +4,7 @@
  */
 
 /**
- *
+ * Branch Partime[sic]
  * @author Salanewt
  */
 public class StudentDetailsPrint {
