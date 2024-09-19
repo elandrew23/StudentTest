@@ -9,6 +9,7 @@
  */
 public class StudentDetailsPrint {
     public static void main(String[] args) {
+        // Create Four Students
         Student s1 = new Student();
         s1.setName("Andrew");
         s1.setSid(1);
