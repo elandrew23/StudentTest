@@ -18,6 +18,8 @@ public class StudentDetailsPrint {
         Student s3 = new Student();
         s3.setName("Syd");
         s3.setSid(3);
+        s4.setName("Jen");
+        s4.setSid(4);
         //Classname[] list = new Classname[##];
         Student[] list = new Student[3];  // array of objects
         list[0] = s1;
